@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erGoProcsee
-- 👀 I’m interested in webdesign and cybersecurity
-- 🌱 I’m currently learning node.js
+- 👀 I’m interested in webdesign, cybersecurity and machine learning
+- 🌱 I’m currently learning sql and python
 - 📫 How to reach me  gomezernesto55@gmail.com
 
 <!---
